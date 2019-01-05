@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">simpleFlickerApp</string>
+    <string name="WEBSITE">https://www.flickr.com/services/api/</string>
+</resources>
